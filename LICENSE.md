@@ -1,4 +1,4 @@
-# 
+# Ultimate AI Emotion Detection from Text extensions. Featuring natural-language-processing and deep-learning-models — optimized for maximum performance.
 
 
 
